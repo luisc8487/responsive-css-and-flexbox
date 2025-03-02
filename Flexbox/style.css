@@ -1,7 +1,7 @@
 body {
   font-family: "open sans", sans-serif;
 }
-h1 {
+h1, h2{
   text-align: center;
 }
 
@@ -60,3 +60,21 @@ div:nth-of-type(5) {
 div:nth-of-type(2){
     align-self: flex-end;
 } */
+main{
+    width: 80%;
+    margin: 0 auto;
+    border:5px solid black;
+    height:500px;
+    display:flex;
+}
+
+main .sidebar{
+    background-color: #6930c3;
+    border:2px solid white;
+    flex:1 2 300px;
+}
+
+main .maincontent{
+    background-color: #80ffdb;
+    flex:2 1 800px;
+}
