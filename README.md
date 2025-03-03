@@ -1,1 +1,1 @@
-# Responsive CSS & Flexbox
+# Flexbox and Responsive Design Practice
