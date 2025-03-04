@@ -45,3 +45,7 @@ media (max-width: 768px) {
 - **CSS3** for styling and implementing Flexbox properties.
 - **Media Queries** for creating a responsive design.
 
+## Future Enhancements
+- Adding animations to demonstrate transitions within a flex container.
+- Implementing JavaScript to dynamically update flex properties.
+- Exploring CSS Grid alongside Flexbox for advanced layouts.
