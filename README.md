@@ -16,3 +16,27 @@ This project demonstrates the use of **HTML and CSS** to practice various Flexbo
 - **flex-wrap**: Specifies whether flex items should wrap onto multiple lines.
 - **justify-content**: Defines alignment along the main axis.
 - **flex-direction**: Determines the direction of the flex container (row, column, etc.).
+
+## Responsive Design with Media Queries
+In addition to practicing Flexbox, this project incorporates **media queries** to ensure a responsive layout across different screen sizes. Media queries are used to:
+- Adjust the flex properties on screen width.
+- Change layout structures for better readability on smaller devices.
+- Modify font sizes, spacing, and other CSS properties for an optimized user experience.
+### Example Media Query
+```css
+media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .item {
+        flex-basis: 100%;
+    }
+}
+```
+## How to Use
+1. Clone or download the repository.
+2. Open the `index.html` file in a web browser. 
+3. Experiment with different screen sizes to see Flexbox and media queries in action.
+4. Modify the CSS file to practice and enhance your understanding of Flexbox.
+
