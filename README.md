@@ -40,3 +40,8 @@ media (max-width: 768px) {
 3. Experiment with different screen sizes to see Flexbox and media queries in action.
 4. Modify the CSS file to practice and enhance your understanding of Flexbox.
 
+## Technologies Used
+- **HTML5** for structuring the layout.
+- **CSS3** for styling and implementing Flexbox properties.
+- **Media Queries** for creating a responsive design.
+
